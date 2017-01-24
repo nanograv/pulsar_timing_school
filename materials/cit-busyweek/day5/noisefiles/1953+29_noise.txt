@@ -1,0 +1,8 @@
+efac-S_low-ASP 0.478326639549
+efac-L_wide-ASP 1.00126719499
+jitter_q-L_wide-ASP -6.88263317402
+jitter_q-S_low-ASP -5.16089853504
+equad-S_low-ASP -7.10368553615
+equad-L_wide-ASP -7.54811623011
+RN-Amplitude -12.190780857
+RN-spectral-index 1.61669838491
