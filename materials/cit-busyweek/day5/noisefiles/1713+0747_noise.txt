@@ -1,0 +1,14 @@
+efac-L_wide-ASP 1.18862507161
+efac-Rcvr_800-GASP 1.20219614881
+efac-S_low-ASP 1.08363249829
+efac-Rcvr1_2-GASP 1.08672022646
+jitter_q-L_wide-ASP -6.9994786818
+jitter_q-Rcvr1_2-GASP -7.13482107637
+jitter_q-Rcvr_800-GASP -6.76048387511
+jitter_q-S_low-ASP -7.2576166253
+equad-L_wide-ASP -8.85887435136
+equad-Rcvr_800-GASP -10.0
+equad-S_low-ASP -7.52683838703
+equad-Rcvr1_2-GASP -7.54919005353
+RN-Amplitude -14.7438312905
+RN-spectral-index 4.30453843281
