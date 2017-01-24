@@ -11,7 +11,7 @@ and GW analysis techniques and theory.
 
 1. [Searching for Gravitational Waves Using Pulsar Timing Arrays](http://dc.uwm.edu/cgi/viewcontent.cgi?article=1565&context=etd), J. A. Ellis (2014)
 2. [A Comprehensive Bayesian Approach to Gravitational Wave Astronomy](http://scholarworks.montana.edu/xmlui/bitstream/handle/1/1740/LittenbergT0509.pdf?sequence=1), T. Littenberg (2009)
-3.[Exploring the cosmos with Gravitational Waves](https://gwic.ligo.org/thesisprize/2014/taylor_thesis.pdf), S. R. Taylor (2014)
+3. [Exploring the cosmos with Gravitational Waves](https://gwic.ligo.org/thesisprize/2014/taylor_thesis.pdf), S. R. Taylor (2014)
 4. [Gravitational Wave Astrophysics with Pulsar Timing Arrays](https://gwic.ligo.org/thesisprize/2014/mingarelli_thesis.pdf), C. M. F Mingarelli (2014)
 5. [Gravitational Wave detection & data analysis for Pulsar Timing Arrays](https://gwic.ligo.org/thesisprize/2011/van_haasteren_thesis.pdf), R. van Haasteren (2011)
 6. [Measuring the Gravitational Wave Background using Precision Pulsar Timing](http://www.cv.nrao.edu/~pdemores/thesis.pdf), P. B. Demorest (2007)
