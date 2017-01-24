@@ -13,6 +13,8 @@ Here we host a collection of exercises, notes and, presentations from various sc
 
 * [Pulsar timing noise modeling and GW detection exercises](https://github.com/nanograv/cit-busyweek/tree/master/materials/cit-busyweek): In this repository we host material from an intensive school held at Caltech that begins with basic Markov Chain Monte-Carlo design and gradually builds a fully functional GW detection pipeline from scratch. If you are already familiar with Bayesian data analysis, are comfortable with the Python programming language, and want to get your hands dirty and learn a lot, then this is the place to go.
 
+* [Pulsar timing code profiling](https://github.com/nanograv/cit-busyweek/tree/master/materials/nano_fall2016_hackathon): In this repository we host material from a NANOGrav hackathon held at NCSA at the University of Illinois at Urbana-Champaign in Fall 2016. The goal was to profile our likelihood and find out where the computational bottlenecks are. This profiling is done through a jupyter notebook, which calls various scripts and data, also within the folder.
+
 ------------
 
 ## Literature
