@@ -28,7 +28,7 @@ Here we host a collection of exercises, notes and, presentations from various sc
 
 If you have questions, comments or requests then submit an [issue](https://github.com/nanograv/cit-busyweek/issues) and one of us will try to answer it ASAP.
 
-## Contributions
+## Contributions?
 
 If you have material of your own that you think would be useful then fork this repository, add your material and submit a pull request.
 
