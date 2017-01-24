@@ -3,6 +3,7 @@ This repository contains several exercises and explanatory Jupyter notebooks tha
 
 ## Literature
 
+
 Here we store several important papers in several different areas of pulsar timing data analysis. While this list is by no means exhaustive it gives a very good introduction to several areas of pulsar data analysis and modeling. The reading lists have been broken into broad topics:
 
 1. [Ph.D theses on gravitational wave and pulsar data analysis](https://github.com/nanograv/cit-busyweek/tree/new-design/literature/phd_theses)
@@ -30,3 +31,4 @@ If you have questions, comments or requests then submit an [issue](https://githu
 ## Contributions
 
 If you have material of your own that you think would be useful then fork this repository, add your material and submit a pull request.
+
