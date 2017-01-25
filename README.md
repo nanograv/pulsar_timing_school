@@ -19,7 +19,7 @@ Here we host a collection of exercises, notes and, presentations from various sc
 
 ## Literature
 
-Here we store several important papers in several different areas of pulsar timing data analysis. While this list is by no means exhaustive it gives a very good introduction to several areas of pulsar data analysis and modeling. The reading lists have been broken into broad topics:
+Here we list several important papers in several different areas of pulsar timing data analysis. While this list is by no means exhaustive it gives a very good introduction to several areas of pulsar data analysis and modeling. The reading lists have been broken into broad topics:
 
 ### 1. Ph.D theses on gravitational wave and pulsar data analysis
 
