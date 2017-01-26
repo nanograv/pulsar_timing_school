@@ -67,6 +67,13 @@ Full Bayesian non-linear pulsar timing is a very new field and these two papers 
 
 ### 5. Stochastic gravitational wave background analysis
 
+* [The NANOGrav Nine-year Data Set: Limits on the Isotropic Stochastic Gravitational Wave Background](http://adsabs.harvard.edu/abs/2016ApJ...821...13A), NANOGrav Collaboration (2016)
+* [Time-domain implementation of the optimal cross-correlation statistic for stochastic gravitational-wave background searches in pulsar timing data](http://adsabs.harvard.edu/abs/2015PhRvD..91d4048C), S. J. Chamberlin et al (2015)
+* [Searching for anisotropic gravitational-wave backgrounds using pulsar timing arrays](http://adsabs.harvard.edu/abs/2013PhRvD..88h4001T), S. R. Taylor & J. R. Gair (2013)
+* [Hyper-efficient model-independent Bayesian method for the analysis of pulsar timing data](http://adsabs.harvard.edu/abs/2013PhRvD..87j4021L), L. Lentati et al (2013)
+* [On measuring the gravitational-wave background using Pulsar Timing Arrays](http://adsabs.harvard.edu/abs/2009MNRAS.395.1005V), R. van Haasteren et al (2009)
+
+
 ### 6. Continuous gravitational wave analysis
 
 The papers here and references therein detail the modeling and detection techniques for continuous GW sources in both circular and eccentric orbits.
