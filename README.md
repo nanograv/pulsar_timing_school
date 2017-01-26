@@ -53,6 +53,7 @@ These papers form an excellent basis for nearly all of the data Bayesian data an
 
 Noise modeling in pulsar timing data analysis is extremely important and it permeates all other areas of analysis in pulsar timing. These papers are some of the most comprehensive covering physical and mathematical modeling of pulsar noise sources.
 
+* [Taming outliers in pulsar-timing datasets with hierarchical likelihoods and Hamiltonian sampling](http://adsabs.harvard.edu/abs/2016arXiv160902144V), M. Vallisneri & R. van Haasteren (2017)
 * [Transdimensional Bayesian approach to pulsar timing noise analysis](http://adsabs.harvard.edu/abs/2016PhRvD..93h4048E), J. A. Ellis & N. J. Cornish (2016)
 * [The NANOGrav Nine-year Data Set: Observations, Arrival Time Measurements, and Analysis of 37 Millisecond Pulsars](http://adsabs.harvard.edu/abs/2015ApJ...813...65T), NANOGrav Collaboration (2015)
 * [New advances in the Gaussian-process approach to pulsar-timing data analysis](http://adsabs.harvard.edu/abs/2014PhRvD..90j4012V), R. van Haasteren & M. Vallisneri (2014)
@@ -66,6 +67,8 @@ Full Bayesian non-linear pulsar timing is a very new field and these two papers 
 * [TEMPONEST: a Bayesian approach to pulsar timing analysis](http://adsabs.harvard.edu/abs/2014MNRAS.437.3004L), L. Lentati et al (2014)
 
 ### 5. Stochastic gravitational wave background analysis
+
+Stochastic GWB analysis is the most active in the pulsar timing field. This list (and references therein) is a good base collection of a historical development of detection techniques for both anisotropic and isotropic backgrounds.
 
 * [The NANOGrav Nine-year Data Set: Limits on the Isotropic Stochastic Gravitational Wave Background](http://adsabs.harvard.edu/abs/2016ApJ...821...13A), NANOGrav Collaboration (2016)
 * [Time-domain implementation of the optimal cross-correlation statistic for stochastic gravitational-wave background searches in pulsar timing data](http://adsabs.harvard.edu/abs/2015PhRvD..91d4048C), S. J. Chamberlin et al (2015)
