@@ -51,7 +51,18 @@ These papers form an excellent basis for nearly all of the data Bayesian data an
 
 ### 3. Pulsar noise modeling and analysis
 
+Noise modeling in pulsar timing data analysis is extremely important and it permeates all other areas of analysis in pulsar timing. These papers are some of the most comprehensive covering physical and mathematical modeling of pulsar noise sources.
+
+* [The NANOGrav Nine-year Data Set: Observations, Arrival Time Measurements, and Analysis of 37 Millisecond Pulsars](http://adsabs.harvard.edu/abs/2015ApJ...813...65T), NANOGrav Collaboration (2015)
+* [New advances in the Gaussian-process approach to pulsar-timing data analysis](http://adsabs.harvard.edu/abs/2014PhRvD..90j4012V), R. van Haasteren & M. Vallisneri (2014)
+* [A Measurement Model for Precision Pulsar Timing](http://adsabs.harvard.edu/abs/2010arXiv1010.3785C), J. M. Cordes & R. M. Shannon (2010)
+
 ### 4. Non-linear Bayesian pulsar timing
+
+Full Bayesian non-linear pulsar timing is a very new field and these two papers form the basis of that work to date.
+
+* [Bayesian inference for pulsar-timing models](http://adsabs.harvard.edu/abs/2014MNRAS.440.1446V), S. J. Vigeland & M. Vallisneri(2014)
+* [TEMPONEST: a Bayesian approach to pulsar timing analysis](http://adsabs.harvard.edu/abs/2014MNRAS.437.3004L), L. Lentati et al (2014)
 
 ### 5. Stochastic gravitational wave background analysis
 
