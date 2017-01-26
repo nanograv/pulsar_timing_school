@@ -105,5 +105,5 @@ If you have questions, comments or requests then submit an [issue](https://githu
 
 ## Contributions?
 
-If you have material of your own that you think would be useful then fork this repository, add your material and submit a pull request.
+If you have material of your own that you think would be useful then [fork](https://help.github.com/articles/fork-a-repo/) this repository, add your material and submit a [pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
 
