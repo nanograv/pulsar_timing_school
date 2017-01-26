@@ -39,6 +39,16 @@ and GW analysis techniques and theory.
 
 ### 2. Data analysis and sampling techniques
 
+These papers form an excellent basis for nearly all of the data Bayesian data analysis and samping methods that are currently used in pulsar timing.
+
+* [Bayesian model selection without evidences: application to the dark energy equation-of-state](http://adsabs.harvard.edu/abs/2016MNRAS.455.2461H), S. Hee (2016)
+* [New advances in the Gaussian-process approach to pulsar-timing data analysis](http://adsabs.harvard.edu/abs/2014PhRvD..90j4012V), R. van Haasteren & M. Vallisneri (2014)
+* [MULTINEST: an efficient and robust Bayesian inference tool for cosmology and particle physics](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:0809.3437), F. Feroz (2008)
+* [Data analysis recipes: Fitting a model to data](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1008.4686), D. W. Hogg (2010)
+* [Bayesian approach to the detection problem in gravitational wave astronomy](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:0902.0368), T. Litternberg & N. J. Cornish (2009)
+* [Comment on "Tainted evidence: cosmological model selection versus fitting"](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:astro-ph/0703285), A. R. Liddle et al (2007)
+
+
 ### 3. Pulsar noise modeling and analysis
 
 ### 4. Non-linear Bayesian pulsar timing
