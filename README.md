@@ -78,7 +78,12 @@ The papers here and references therein detail the modeling and detection techniq
 
 ### 7. Gravitational wave burst analysis
 
+Bursts are likely the least studied form of GWs in the pulsar timing frequency bands. This list forms a great basis for modeling and detection techniques for both un-modeled and bursts with memory (BWM).
 
+* [NANOGrav Constraints on Gravitational Wave Bursts with Memory](http://adsabs.harvard.edu/abs/2015ApJ...810..150A), NANOGrav Collaboration (2015)
+* [Searching for gravitational wave bursts via Bayesian nonparametric data analysis with pulsar timing arrays](http://adsabs.harvard.edu/abs/2014PhRvD..90b4020D), X. Deng (2014)
+* [Detection, Localization, and Characterization of Gravitational Wave Bursts in a Pulsar Timing Array](http://adsabs.harvard.edu/abs/2010ApJ...718.1400F), L. S. Finn & A. N. Lommen (2010)
+* [Gravitational-wave memory and pulsar timing arrays](http://adsabs.harvard.edu/abs/2010MNRAS.401.2372V), R. van Haasteren & Y. Levin (2010)
 
 --------------
 
