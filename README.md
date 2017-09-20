@@ -21,6 +21,22 @@ Here we host a collection of exercises, notes and, presentations from various sc
 
 Here we list several important papers in several different areas of pulsar timing data analysis. While this list is by no means exhaustive it gives a very good introduction to several areas of pulsar data analysis and modeling. The reading lists have been broken into broad topics:
 
+### 0. Basic overview and introductory material
+
+Basic pulsar timing overviews and historical papers are listed here
+for beginners in the field.
+
+* [Observation of a Rapidly Pulsating Radio Source](http://www.astro.cornell.edu/~shami/psrintro/papers/HBP+68.pulsars.pdf), Hewish, Bell, et al (1968)
+  * Pulsar Discovery paper.
+* [Discovery of a Pulsar in a Binary System](http://www.astro.cornell.edu/~shami/psrintro/papers/HT75.binarypsr.pdf), Hulse & Taylor (1975)
+  * First binary pulsar 
+* [A Millisecond Pulsar](http://www.astro.cornell.edu/~shami/psrintro/papers/BKH+82.msp.pdf), Backer, Kulkarni, et al (1982)
+  * First Millisecond pulsar
+* [Binary and Millisecond Pulsars](http://www.astro.cornell.edu/~shami/psrintro/papers/L08.LRR-psrs.pdf), D. R. Lorimer (2008)
+  * Good observational overview
+* [Essential Radio Astronomy: Pulsars](http://www.cv.nrao.edu/~sransom/web/Ch6.html), Condon & Ransom (2016)
+  * Introduction to pulsars
+
 ### 1. Ph.D theses on gravitational wave and pulsar data analysis
 
 The Ph.D theses here are all focused on various aspects of pulsar timing 
